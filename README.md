@@ -1,6 +1,6 @@
 # IBM Telco Customer Churn Prediction
 ##
-[![Made with Google Colab](https://img.shields.io/badge/Made%20with-Google%20Colab-yellow?logo=google-colab)]([https://colab.research.google.com/](https://colab.research.google.com/drive/1BPw81qtj3Fpd4odEM1nEK4kDfTyaOksb?usp=sharing))
+[![Made with Google Colab](https://img.shields.io/badge/Made%20with-Google%20Colab-yellow?logo=google-colab)](https://colab.research.google.com/drive/1BPw81qtj3Fpd4odEM1nEK4kDfTyaOksb?usp=sharing)
 
 The objective of this notebook is to present an extensive analysis of the **Customer Churn Dataset** and to predict the customer churn rate.
 
